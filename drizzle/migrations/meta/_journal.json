@@ -29,6 +29,13 @@
       "when": 1791178523304,
       "tag": "0003_thin_wendigo",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791179182802,
+      "tag": "0004_sudden_ezekiel_stane",
+      "breakpoints": true
     }
   ]
 }
